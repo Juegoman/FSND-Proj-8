@@ -1,11 +1,11 @@
-## Udacity Full Stack Nanodegree Project 8: Server Configuration
+# Udacity Full Stack Nanodegree Project 8: Server Configuration
 
 Server IP address: 54.70.35.165
 Server SSH port: 2200
 
 Application URL: http://ec2-54-70-35-165.us-west-2.compute.amazonaws.com/
 
-#Software installed:
+##Software installed:
  - apache2
  - libapache2-mod-wsgi
  - postgresql
