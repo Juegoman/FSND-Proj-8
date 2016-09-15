@@ -20,6 +20,7 @@ Application URL: http://ec2-54-70-35-165.us-west-2.compute.amazonaws.com/
   Walkthrough by stueken: https://github.com/stueken/FSND-P5_Linux-Server-Configuration
 
 To access the server login as user "grader" using the following private key:
+```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEogIBAAKCAQEAuKMIOIvk+JdpGJpK6e89zEok2E1PxkIdrXtpLvF0SOD1tH8z
 OnrB3tLyjozBDCtxi6dhJkAbTMwwb8Nm3c4gkzvapkoefVfzZbMpoyTtFSy2Uj4Q
@@ -47,6 +48,7 @@ tog9AoGAeacvqfTyUIuuaprmr4yPON5W8BCFSnM47ajOPaJNRbx6qBlth1GBzcU9
 CHb9CDwK+iFlblNafS8eQZdMLFEqFzzZ1zC9bounvmXW6K0wVlwltRCCNq9oJgj5
 YBKZFDSSKIyYq1tdWwEz8LF72tMkfXH3/fbnntNk2Nv8kI1TKDA=
 -----END RSA PRIVATE KEY-----
+```
 
 the grader user's sudo password is "thisisthegraderpassword"
 
