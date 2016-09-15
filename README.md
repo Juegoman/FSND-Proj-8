@@ -50,5 +50,4 @@ YBKZFDSSKIyYq1tdWwEz8LF72tMkfXH3/fbnntNk2Nv8kI1TKDA=
 -----END RSA PRIVATE KEY-----
 ```
 
-the grader user's sudo password is "thisisthegraderpassword"
-
+the grader user's sudo password is `"thisisthegraderpassword"`
